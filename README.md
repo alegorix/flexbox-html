@@ -1,2 +1,2 @@
 # flexbox-html
-html/css
+html/css - simple layout in flexbox
